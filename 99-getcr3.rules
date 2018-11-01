@@ -1,0 +1,1 @@
+KERNEL=="getcr3*"		MODE="0666"
